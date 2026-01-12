@@ -1,0 +1,10 @@
+type: edu
+files:
+  - name: src/converter/Main.kt
+    visible: true
+    learner_created: false
+  - name: test/NumeralSystemConverterTest.java
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/165/stages/858/implement#comment
+status: Unchecked
+record: -1
