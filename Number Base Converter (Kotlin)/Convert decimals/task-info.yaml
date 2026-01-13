@@ -4,7 +4,11 @@ files:
     visible: true
     learner_created: false
   - name: test/NumeralSystemConverterTest.java
+    visible: true
     learner_created: false
 feedback_link: https://hyperskill.org/projects/165/stages/856/implement#comment
-status: Unchecked
-record: -1
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 13 Jan 2026 12:27:50 UTC"
+record: 1

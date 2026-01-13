@@ -6,16 +6,10 @@ summary: "<p>We’re all quite used to our good old decimal system of numerals. 
   \ numbers from one system to another just for fun or to store large data more efficiently,\
   \ a converter proves helpful. In this project, you will create your own tool that\
   \ will help you convert numbers from one system to another and recreate built-in\
-  \ functions to practice algorithmic systems.</p><br/><br/>Learn more at <a href=\"\
-  https://hyperskill.org/projects/165?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card\"\
-  >https://hyperskill.org/projects/165</a>"
+  \ functions to practice algorithmic systems.</p>"
 programming_language: Kotlin
 content:
   - Number Base Converter (Kotlin)
-additional_files:
-  - name: build.gradle
-    visible: true
-  - name: settings.gradle
-    visible: true
+additional_files: [ ]
 mode: Study
 yaml_version: 5
